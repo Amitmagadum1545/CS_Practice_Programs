@@ -10,6 +10,7 @@ namespace ConsoleApp2
     {
         public static void GetAddition()
         {
+            Console.WriteLine("Welcome To Addition Program");
             Console.WriteLine("Enter a number");
             int a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter second number");
